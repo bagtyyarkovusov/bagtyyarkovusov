@@ -1,21 +1,16 @@
-# Bagtyyar Kovusov
+# Bagtyyar Kowusov
 
-Production-minded full-stack engineer. I ship tested, containerized software with CI gates, documented architecture decisions, and transparent delivery.
+I build web and mobile products in TypeScript, with maintainable code and projects that actually ship.
 
 Portfolio: [bagtyyar.dev](https://bagtyyar.dev)
 
 ## Selected work
 
-- **[personal-engineering-portfolio](https://github.com/bagtyyarkovusov/personal-engineering-portfolio)** — Next.js 16 + Prisma portfolio with CI gates (quality, e2e, smoke, a11y) and automatic deploys. Live at [bagtyyar.dev](https://bagtyyar.dev).
-- **[auto.tm-rewrite](https://github.com/bagtyyarkovusov/auto.tm-rewrite)** — Vehicle marketplace rewrite: Turborepo monorepo, Expo mobile app, NestJS bounded contexts. Play Store release pending as `com.auto_tm.ynamly`.
-- **[myorl-pavlos](https://github.com/bagtyyarkovusov/myorl-pavlos)** — Bilingual (el/ru) ENT clinic platform: Next.js + Strapi 5 + Meilisearch on Railway. Live at [myorl.up.railway.app](https://myorl.up.railway.app).
-- **[GonkaProvider](https://github.com/bagtyyarkovusov/GonkaProvider)** — Deployment and support of a 24-node / 192-GPU AI inference cluster.
-- **[tm-whatsapp](https://github.com/bagtyyarkovusov/tm-whatsapp)** — WhatsApp integration work.
+- **[personal-engineering-portfolio](https://github.com/bagtyyarkovusov/personal-engineering-portfolio)**: Next.js 16 and Prisma portfolio with CI gates, end-to-end tests, accessibility checks, and Railway deployment.
+- **[GonkaProvider](https://github.com/bagtyyarkovusov/GonkaProvider)**: OpenAI-compatible API gateway for a distributed GPU inference cluster, built with Express, TypeScript, Zod, SSE, and Docker.
+- **[tayyn-hyzmat-project](https://github.com/bagtyyarkovusov/tayyn-hyzmat-project)**: Delivery dispatch system for restaurants, flowers, and parcels, with Vue 3, Capacitor Android, Express, Prisma, PostgreSQL, and Socket.IO.
+- **[myorl-ent-clinic](https://github.com/bagtyyarkovusov/myorl-ent-clinic)**: Bilingual clinic platform with a Next.js frontend, Strapi CMS, and Meilisearch.
 
-## How I work
+I care about clear boundaries, tests that catch real regressions, and handoffs another engineer can continue.
 
-Tests and e2e gates before merge · Dockerized, reproducible environments · CI/CD on every push · ADRs for architecture decisions · working software over slide decks.
-
-## Work with me
-
-[bagtyyar.dev/work-with-me](https://bagtyyar.dev/work-with-me)
+[Work with me](https://bagtyyar.dev/work-with-me)
